@@ -6,7 +6,7 @@
     </head>
 
   <body>
-        <h1>Help :</h1>
+        <h1>Perdu sur notre site ?</h1>
     <form role="search">
   <div>
     <input type="search" id="maRecherche" name="q"
@@ -15,7 +15,6 @@
     <button>Rechercher</button>
   </div>
 </form>
-        <p><strong>Perdu sur notre site ?</strong></p>
     <p></p>
     <p>N'hésitez pas à retourner à l'accueil : <a href="https://maevebestdev.github.io/GIF_Mignon/">Acceuil GIF Mignon</a>
     <p></p>
