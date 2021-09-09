@@ -19,5 +19,5 @@
       
     <p>N'hésitez pas à retourner à <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>
     <p></p>
-    <p>N'hésitez pas à contactez nous (<a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>) ou par l'adresse email : cetteAdresseExistePasReelement@hotmail.com</a>
+    <p>N'hésitez pas à contactez nous (<a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>) ou par l'adresse email : maevedev@hotmail.com</a>
 <script src="script.js"></script>
