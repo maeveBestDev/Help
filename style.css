@@ -1,5 +1,7 @@
 body {
-background: #808080 url("https://media.discordapp.net/attachments/884718653348667412/885874493401231400/sheet_white.png?width=214&height=427") no-repeat 0 0;}
+  background: #808080 url("https://media.discordapp.net/attachments/884718653348667412/885874493401231400/sheet_white.png?width=214&height=427") no-repeat 0 0;
+  background-size: 70%;
+}
 h1
 {
   color: black;
