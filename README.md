@@ -4,7 +4,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
         <meta charset="utf-8">
         <title>GifMignon/Help</title>
-        <link rel="icon" type="image/png" sizes="16x16" href="https://lh3.googleusercontent.com/proxy/p2Py6H9WxxxjuUxtelVodHTs1c8b_lOJ1pIQTIq07s4lLAzo-icJBoFF_-yLO6e4_p5UbG4k4KHaaU0I1VbId5CsayqisW6ftjvaI42sMk0EYi5p4SQ">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/884718653348667412/885860324513828925/favicon.png?width=427&height=427">
     </head>
 
   <body>
