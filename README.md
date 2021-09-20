@@ -14,9 +14,7 @@
 <input type="button" id="bouton" value="Rechercher" onclick="controle()">
 </form>
     <p></p>
-      
-                <div class="imagee" style="background-image: url(https://media.discordapp.net/attachments/884718653348667412/885874493401231400/sheet_white.png?width=214&height=427)"></div>
-      
+            
     <p>N'hésitez pas à retourner à <a href="https://maevebestdev.github.io/Main_Page/">l'Acceuil</a>
     <p></p>
     <p>N'hésitez pas à contactez nous (<a href="https://maevebestdev.github.io/Contact_Us/">Contact us</a>) ou par l'adresse email : maevedev@hotmail.com</a>
